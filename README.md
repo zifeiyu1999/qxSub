@@ -20,4 +20,4 @@ requirements.txt --- 依赖包
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=ahsyon/Crontab&type=Date)](https://star-history.com/#ahsyon/Crontab)
+[![Star History Chart](https://api.star-history.com/svg?repos=ahsyon/qxSub&type=Date)](https://star-history.com/#ahsyon/qxSub)
